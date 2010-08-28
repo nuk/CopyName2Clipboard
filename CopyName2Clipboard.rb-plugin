@@ -1,0 +1,13 @@
+[RB Plugin]
+Loader=python
+Module=CopyName2Clipboard
+IAge=1
+Name=Copy Name 2 Clipboard
+Name[pt]=Copiar Nome p/ Área de transferência
+Name[pt_BR]=Copiar Nome p/ Área de transferência
+Description=Copies the current song name to clipboard.
+Description[pt]=Copia o nome da música sendo tocada para a área de transferência.
+Description[pt_BR]=Copia o nome da música sendo tocada para a área de transferência.
+Authors=Fabricio Buzeto <nuk.anime13@gmail.com>
+Copyright=Copyright © 2010 Fabricio Buzeto
+Website=Inpired in the http://kflorence.com/ plugin

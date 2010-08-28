@@ -1,0 +1,28 @@
+Copy Name 2 Clipboard - Rhythmbox plugin - 0.1
+==================================
+
+Author: Fabricio Buzeto <nuk.anime13@gmail.com	>
+Licence: GPLv2
+
+Rhythmbox plugin that copies current song information to the system clipboard.
+
+** Installation **
+
+To install this plugin, copy this folder to:
+~/.gnome2/rhythmbox/plugins/
+
+Then enable the plugin within Rhythmbox (edit->plugins).
+
+** Reporting bugs **
+
+Please report bugs by sending a mail to the author(s).
+
+	*BUG1: It seems to be working properly when playing mp3. But when playing stream radios it has 3 known behaviours:
+		1 - It does not updates the song name at the player (program status and tray-icon). Without the plugin it is properly updated.
+		2 - It copies properly the name trough the menu_bar command-action
+		3 - It locks the player when tray command-action is activated.
+
+** Acknowledgements **
+
+This plugin is based on the code repository of the Now Playing Clipboard plugin
+by Kyle Florence <kyle.florence@gmail.com>.
